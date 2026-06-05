@@ -1,0 +1,1 @@
+print("Word count:", len(input("Enter sentence: ").split()))
